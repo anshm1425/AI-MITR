@@ -70,6 +70,10 @@ if st.sidebar.button("🔄 Reset Conversation"):
     st.experimental_rerun()
 
 
+st.markdown('**DESIGN & DEVELOPED BY : ANSH MISHRA**')
+
+
+
 
 
 
